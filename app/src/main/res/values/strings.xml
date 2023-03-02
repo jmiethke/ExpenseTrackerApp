@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Project9</string>
+
+    <array name="categories">
+        <item>Grocery</item>
+        <item>Gas</item>
+        <item>Shopping</item>
+        <item>Miscellaneous</item>
+    </array>
+
+    <array name="searchCategories">
+        <item>All</item>
+        <item>Grocery</item>
+        <item>Gas</item>
+        <item>Shopping</item>
+        <item>Miscellaneous</item>
+    </array>
+</resources>
